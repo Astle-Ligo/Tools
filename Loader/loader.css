@@ -1,0 +1,7 @@
+#loader{
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	background: #ffffff url(Images/house-construction-gif-5\ -\ Copy.gif) no-repeat center;
+	z-index: 999;
+}
