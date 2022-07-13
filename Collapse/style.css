@@ -1,0 +1,53 @@
+body{
+    color: white;
+    font-weight: 500;
+    font-family: Oswald;
+    background-color:cornflowerblue;
+}
+.sidebar{
+    margin: 5%;
+    
+}
+.btn{
+    color:white;
+    background-color:red;
+    width: 10rem;
+    height: 4rem;
+    font-size: 2rem;
+    justify-content: center;
+    text-align: center;
+}
+.card{
+    background: black;
+    width: 50%;
+}
+.list ul li{
+    padding-top: 10%;
+    list-style: none;
+}
+.list ul a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 2rem;
+}
+#element1{
+    width: 100px;
+    height: 100px;
+    background: brown;
+}
+#element2{
+    width: 100px;
+    height: 100px;
+    background: brown;
+}
+#element3{
+    width: 100px;
+    height: 100px;
+    background: brown;
+}
+#element4{
+    width: 100px;
+    height: 100px;
+    background: brown;
+}

@@ -4,6 +4,7 @@
     background-image: url(Images/pexels-lumn-167699.jpg);
     background-attachment: fixed;
     background-size: cover;
+    background-position:center;
 }
 .box2{
     width: 100%;
@@ -16,6 +17,7 @@
     background-image: url(Images/pexels-jaime-reimer-2662116.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-position:center;
 }
 .box4{
     width: 100%;
@@ -28,4 +30,5 @@
     background-image: url(Images/pexels-riccardo-bertolo-4245826.jpg);
     background-attachment: fixed;
     background-size: cover;
+    background-position:center;
 }
